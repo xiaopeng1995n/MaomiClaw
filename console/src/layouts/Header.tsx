@@ -15,8 +15,8 @@ const { Header: AntHeader } = Layout;
 const NAV_URLS = {
   docs: "https://copaw.agentscope.io/docs/intro",
   faq: "https://copaw.agentscope.io/docs/faq",
-  changelog: "https://github.com/agentscope-ai/CoPaw/releases",
-  github: "https://github.com/agentscope-ai/CoPaw",
+  changelog: "https://github.com/xiaopeng1995n/MaomiClaw/releases",
+  github: "https://github.com/xiaopeng1995n/MaomiClaw",
 } as const;
 
 const keyToLabel: Record<string, string> = {

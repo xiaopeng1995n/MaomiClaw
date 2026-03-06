@@ -394,7 +394,7 @@ export default function Sidebar({ selectedKey }: SidebarProps) {
             type="primary"
             onClick={() =>
               window.open(
-                "https://github.com/agentscope-ai/CoPaw/releases",
+                "https://github.com/xiaopeng1995n/MaomiClaw/releases",
                 "_blank",
               )
             }

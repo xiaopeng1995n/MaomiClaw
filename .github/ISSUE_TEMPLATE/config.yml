@@ -5,7 +5,7 @@ blank_issues_enabled: true
 
 contact_links:
   - name: GitHub Discussions
-    url: https://github.com/agentscope-ai/CoPaw/discussions
+    url: https://github.com/xiaopeng1995n/MaomiClaw/discussions
     about: Ask questions, share ideas, or discuss CoPaw here.
   - name: View docs
     url: https://copaw.agentscope.io/
